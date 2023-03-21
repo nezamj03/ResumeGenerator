@@ -2,8 +2,8 @@ import puppeteer from "puppeteer";
 import * as fs from "fs";
 
 const login = {
-  EMAIL: "mjaz@mit.edu",
-  PASSWORD: "ifwuLP6VF=SX_)D",
+  EMAIL: "username",
+  PASSWORD: "password",
 };
 
 const selectors = {
